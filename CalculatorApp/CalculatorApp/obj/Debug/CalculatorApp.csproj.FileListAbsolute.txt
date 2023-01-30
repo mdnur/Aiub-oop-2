@@ -1,0 +1,6 @@
+/Users/mohammadnur/Projects/CalculatorApp/CalculatorApp/bin/Debug/CalculatorApp.exe
+/Users/mohammadnur/Projects/CalculatorApp/CalculatorApp/bin/Debug/CalculatorApp.pdb
+/Users/mohammadnur/Projects/CalculatorApp/CalculatorApp/obj/Debug/CalculatorApp.csproj.AssemblyReference.cache
+/Users/mohammadnur/Projects/CalculatorApp/CalculatorApp/obj/Debug/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/mohammadnur/Projects/CalculatorApp/CalculatorApp/obj/Debug/CalculatorApp.exe
+/Users/mohammadnur/Projects/CalculatorApp/CalculatorApp/obj/Debug/CalculatorApp.pdb

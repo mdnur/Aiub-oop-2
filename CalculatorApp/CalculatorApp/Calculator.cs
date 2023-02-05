@@ -3,8 +3,8 @@ namespace CalculatorApp
 {
     public class Calculator
     {
-        private int number1;
-        private int number2;
+        public int number1;
+        public int number2;
 
         public Calculator()
         {
@@ -35,13 +35,13 @@ namespace CalculatorApp
         }
 
         //public int sub(int number1, int number2)
-             public int sub()
+        public int sub()
         {
             return this.number1 - number2;
         }
 
         //public int mal(int number1, int number2)
-            public int mal()
+        public int mal()
         {
             return this.number1 * number2;
         }

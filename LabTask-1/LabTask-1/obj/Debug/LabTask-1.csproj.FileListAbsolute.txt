@@ -1,0 +1,6 @@
+/Users/mohammadnur/Projects/Aiub-oop-2/LabTask-1/LabTask-1/bin/Debug/LabTask-1.exe
+/Users/mohammadnur/Projects/Aiub-oop-2/LabTask-1/LabTask-1/bin/Debug/LabTask-1.pdb
+/Users/mohammadnur/Projects/Aiub-oop-2/LabTask-1/LabTask-1/obj/Debug/LabTask-1.csproj.AssemblyReference.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/LabTask-1/LabTask-1/obj/Debug/LabTask-1.csproj.CoreCompileInputs.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/LabTask-1/LabTask-1/obj/Debug/LabTask-1.exe
+/Users/mohammadnur/Projects/Aiub-oop-2/LabTask-1/LabTask-1/obj/Debug/LabTask-1.pdb

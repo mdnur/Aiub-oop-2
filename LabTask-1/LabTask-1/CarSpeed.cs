@@ -7,7 +7,7 @@ namespace LabTask1
         private string engine_number;
         private bool start;
 
-        public CarSpeed(float acceleration = 0, string engine_number = "", bool start = false)
+        public CarSpeed(float acceleration = 0, string engine_number = null, bool start = false)
         {
             this.acceleration = acceleration;
             this.engine_number = engine_number;
@@ -16,14 +16,23 @@ namespace LabTask1
 
         public void start_car()
         {
+       
             this.start = true;
             if (this.start)
             {
                 Console.WriteLine("Car started successfully”.");
             }
         }
+        public bool get_start()
+        {
+            return start;
+        }
         public void stop_car()
         {
+            if (!this.start)
+            {
+                return;
+            }
             this.start = false;
             if (!this.start)
             {

@@ -19,21 +19,27 @@ namespace CalculatorApp
             Console.WriteLine("3.mal");
             Console.WriteLine("4.div");
             Console.WriteLine("5.Remainder");
-            Console.WriteLine("6.To The power");
+            Console.WriteLine("q6.To The power");
             Console.WriteLine("7.Percentage");
             Console.WriteLine("8.Min");
             Console.WriteLine("9.Max");
             Console.WriteLine("10.Exit");
+
+            Console.Write("Enter choice: ");
             int choose = Convert.ToInt32(Console.ReadLine());
+
+            //Calculator cal;
             Calculator cal = new Calculator();
             cal.setNumber1(number1);
             cal.setNumber2(number2);
 
-            while (true)
-            {
+            //bool s = true;
+            //while (true)
+            //{
                 switch (choose)
                 {
                     case 1:
+                        int sum = cal.sum();
                         Console.WriteLine(cal.sum());
                         break;
                     case 2:
@@ -60,15 +66,15 @@ namespace CalculatorApp
                     case 9:
                         Console.WriteLine(cal.max());
                         break;
-                    case 10:
-                            break;
-                        break;
+                    //case 10:
+                    //    s = false;
+                    //    break;
                     default:
                         Console.WriteLine("Wrong Input");
                         break;
                 }
 
-            }
+            //}
             
 
 

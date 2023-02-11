@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.CalculatorApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorApp/Program.cs">
     <Files>
-      <File FileName="CalculatorApp/Calculator.cs" Line="7" Column="28" />
-      <File FileName="CalculatorApp/Program.cs" Line="27" Column="26" />
+      <File FileName="CalculatorApp/Calculator.cs" Line="58" Column="43" />
+      <File FileName="CalculatorApp/Program.cs" Line="22" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{2A6CD6F1-95AA-4B83-AA62-CB288645F947}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LabTask-1/Program.cs">
     <Files>
-      <File FileName="LabTask-1/Program.cs" Line="26" Column="97" />
-      <File FileName="LabTask-1/CarSpeed.cs" Line="41" Column="1" />
+      <File FileName="LabTask-1/Program.cs" Line="6" Column="5" />
+      <File FileName="LabTask-1/CarSpeed.cs" Line="7" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.LabTask-1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LabTask-1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

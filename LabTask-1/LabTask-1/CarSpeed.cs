@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace LabTask1
 {
     public class CarSpeed
@@ -16,33 +17,28 @@ namespace LabTask1
 
         public void start_car()
         {
-       
-            this.start = true;
-            if (this.start)
-            {
-                Console.WriteLine("Car started successfully”.");
-            }
+            start = true;
+            if (start) Console.WriteLine("Car started successfully”.");
         }
+
         public bool get_start()
         {
             return start;
         }
+
         public void stop_car()
         {
-            if (!this.start)
-            {
-                return;
-            }
-            this.start = false;
-            if (!this.start)
-            {
-                Console.WriteLine("Car stopped successfully”.");
-            }
+            if (!start) return;
+
+            start = false;
+            if (!start) Console.WriteLine("Car stopped successfully”.");
         }
+
         public void set_acceleration(float acceleration)
         {
             this.acceleration = acceleration;
         }
+
         public void set_engine_number(string engine_number)
         {
             this.engine_number = engine_number;
@@ -50,21 +46,19 @@ namespace LabTask1
 
         public float get_acceleration()
         {
-            return this.acceleration;
+            return acceleration;
         }
 
         public string get_engine_number()
         {
-            return this.engine_number;
+            return engine_number;
         }
 
         public float get_velocity(float time)
-            {
-            if(this.start == false)
-            {
-                return 0;
-            }
-            return this.acceleration*time;
+        {
+            if (start == false) return 0;
+
+            return acceleration * time;
         }
     }
 }

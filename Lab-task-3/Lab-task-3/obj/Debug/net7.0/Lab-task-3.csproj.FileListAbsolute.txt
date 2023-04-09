@@ -1,0 +1,15 @@
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/bin/Debug/net7.0/Lab-task-3
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/bin/Debug/net7.0/Lab-task-3.deps.json
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/bin/Debug/net7.0/Lab-task-3.runtimeconfig.json
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/bin/Debug/net7.0/Lab-task-3.dll
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/bin/Debug/net7.0/Lab-task-3.pdb
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.csproj.AssemblyReference.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.AssemblyInfoInputs.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.AssemblyInfo.cs
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.csproj.CoreCompileInputs.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.dll
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/refint/Lab-task-3.dll
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.pdb
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/Lab-task-3.genruntimeconfig.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Lab-task-3/Lab-task-3/obj/Debug/net7.0/ref/Lab-task-3.dll

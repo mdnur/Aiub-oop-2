@@ -36,50 +36,45 @@ namespace CalculatorApp
             //bool s = true;
             //while (true)
             //{
-                switch (choose)
-                {
-                    case 1:
-                        int sum = cal.sum();
-                        Console.WriteLine(cal.sum());
-                        break;
-                    case 2:
-                        Console.WriteLine(cal.sub());
-                        break;
-                    case 3:
-                        Console.WriteLine(cal.mal());
-                        break;
-                    case 4:
-                        Console.WriteLine(cal.div());
-                        break;
-                    case 5:
-                        Console.WriteLine(cal.remainder());
-                        break;
-                    case 6:
-                        Console.WriteLine(cal.sqaure());
-                        break;
-                    case 7:
-                        Console.WriteLine(cal.percent(number1));
-                        break;
-                    case 8:
-                        Console.WriteLine(cal.min());
-                        break;
-                    case 9:
-                        Console.WriteLine(cal.max());
-                        break;
-                    //case 10:
-                    //    s = false;
-                    //    break;
-                    default:
-                        Console.WriteLine("Wrong Input");
-                        break;
-                }
+            switch (choose)
+            {
+                case 1:
+                    int sum = cal.sum();
+                    Console.WriteLine(cal.sum());
+                    break;
+                case 2:
+                    Console.WriteLine(cal.sub());
+                    break;
+                case 3:
+                    Console.WriteLine(cal.mal());
+                    break;
+                case 4:
+                    Console.WriteLine(cal.div());
+                    break;
+                case 5:
+                    Console.WriteLine(cal.remainder());
+                    break;
+                case 6:
+                    Console.WriteLine(cal.sqaure());
+                    break;
+                case 7:
+                    Console.WriteLine(cal.percent(number1));
+                    break;
+                case 8:
+                    Console.WriteLine(cal.min());
+                    break;
+                case 9:
+                    Console.WriteLine(cal.max());
+                    break;
+                //case 10:
+                //    s = false;
+                //    break;
+                default:
+                    Console.WriteLine("Wrong Input");
+                    break;
+            }
 
             //}
-            
-
-
         }
-
-
     }
 }

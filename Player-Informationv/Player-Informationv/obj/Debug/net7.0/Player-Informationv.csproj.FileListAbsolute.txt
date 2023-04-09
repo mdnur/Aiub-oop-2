@@ -1,0 +1,15 @@
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/bin/Debug/net7.0/Player-Informationv
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/bin/Debug/net7.0/Player-Informationv.deps.json
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/bin/Debug/net7.0/Player-Informationv.runtimeconfig.json
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/bin/Debug/net7.0/Player-Informationv.dll
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/bin/Debug/net7.0/Player-Informationv.pdb
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.csproj.AssemblyReference.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.AssemblyInfoInputs.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.AssemblyInfo.cs
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.csproj.CoreCompileInputs.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.dll
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/refint/Player-Informationv.dll
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.pdb
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/Player-Informationv.genruntimeconfig.cache
+/Users/mohammadnur/Projects/Aiub-oop-2/Player-Informationv/Player-Informationv/obj/Debug/net7.0/ref/Player-Informationv.dll

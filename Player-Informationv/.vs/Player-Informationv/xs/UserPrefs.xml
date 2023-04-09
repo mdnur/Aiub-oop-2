@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0897B92D-E33D-4BFA-999C-8BC0429BFE32}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Player-Informationv/Footballer.cs">
+    <Files>
+      <File FileName="Player-Informationv/Footballer.cs" Line="20" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Player-Informationv" expanded="True">
+            <Node name="Player-Informationv" expanded="True">
+              <Node name="Footballer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Player-Informationv PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

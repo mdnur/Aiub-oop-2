@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{073B4BFF-9C71-445E-9158-2C67EB5E085D}|Default">
-  <MonoDevelop.Ide.ItemProperties.CalculatorApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorApp/Program.cs">
     <Files>
-      <File FileName="CalculatorApp/Calculator.cs" Line="58" Column="43" />
-      <File FileName="CalculatorApp/Program.cs" Line="22" Column="33" />
+      <File FileName="CalculatorApp/Program.cs" Line="14" Column="1" />
+      <File FileName="CalculatorApp/Calculator.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CalculatorApp" expanded="True">
             <Node name="CalculatorApp" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Calculator.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -18,9 +19,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
 </Properties>

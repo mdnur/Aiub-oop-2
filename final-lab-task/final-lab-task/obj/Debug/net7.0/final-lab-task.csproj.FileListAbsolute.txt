@@ -1,0 +1,15 @@
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.csproj.AssemblyReference.cache
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.AssemblyInfoInputs.cache
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.AssemblyInfo.cs
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.csproj.CoreCompileInputs.cache
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/bin/Debug/net7.0/final-lab-task
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/bin/Debug/net7.0/final-lab-task.deps.json
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/bin/Debug/net7.0/final-lab-task.runtimeconfig.json
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/bin/Debug/net7.0/final-lab-task.dll
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/bin/Debug/net7.0/final-lab-task.pdb
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.dll
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/refint/final-lab-task.dll
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.pdb
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/final-lab-task.genruntimeconfig.cache
+/Users/mohammadnur/Projects/final-lab-task/final-lab-task/obj/Debug/net7.0/ref/final-lab-task.dll

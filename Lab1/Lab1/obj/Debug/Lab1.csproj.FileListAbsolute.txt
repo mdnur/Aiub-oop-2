@@ -1,0 +1,6 @@
+/Users/mohammadnur/Projects/Lab1/Lab1/bin/Debug/Lab1.exe
+/Users/mohammadnur/Projects/Lab1/Lab1/bin/Debug/Lab1.pdb
+/Users/mohammadnur/Projects/Lab1/Lab1/obj/Debug/Lab1.csproj.AssemblyReference.cache
+/Users/mohammadnur/Projects/Lab1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Users/mohammadnur/Projects/Lab1/Lab1/obj/Debug/Lab1.exe
+/Users/mohammadnur/Projects/Lab1/Lab1/obj/Debug/Lab1.pdb

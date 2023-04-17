@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{A23CB495-540E-4B1D-A3E1-39B7F21D262F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.final-lab-task-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="final-lab-task-2/Program.cs">
+    <Files>
+      <File FileName="final-lab-task-2/Program.cs" Line="6" Column="1" />
+      <File FileName="final-lab-task-2/EmptyClass.cs" Line="6" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="final-lab-task-2" expanded="True">
+            <Node name="final-lab-task-2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
